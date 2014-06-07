@@ -1,4 +1,4 @@
--- Problem # Solution: Haskell
+-- Problem 3 Solution: Haskell
 --
 -- Author: Daneg89
 -- Date: June 7, 2014
